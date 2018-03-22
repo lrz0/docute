@@ -140,7 +140,7 @@ function myPlugin(options) {
 
 #### event
 
-事件系统使用了 [eventstop](https://github.com/egoist/eventstop) 这个库。 B简单来说你可以使用 `event.subscribe` 来订阅一些 docute 内部事件。
+事件系统使用了 [eventstop](https://github.com/egoist/eventstop) 这个库。简单来说你可以使用 `event.subscribe` 来订阅一些 docute 内部事件。
 
 事件列表:
 
